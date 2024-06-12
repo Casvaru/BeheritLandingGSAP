@@ -1,0 +1,16 @@
+{
+	"dependencies": {
+		"gsap": "^3.12.5",
+		"ux-cursor": "^1.2.0"
+	},
+	"devDependencies": {
+		"standard": "^17.1.0",
+		"vite": "^5.2.13"
+	},
+	"scripts": {
+		"dev": "vite"
+	},
+	"eslintConfig": {
+		"extends":"standard"
+	}
+}
