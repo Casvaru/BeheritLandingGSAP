@@ -3,7 +3,7 @@
 ## Preview
 ![](./assets/hero.gif)
 ### Descripción
-Landing page tipo Scrollingtelling con el tema del Beherit Carmesí del universo de Berserk.
+Landing page tipo Scrollytelling con el tema del Beherit Carmesí del universo de Berserk.
 
 ### Librerías
 - GSAP
